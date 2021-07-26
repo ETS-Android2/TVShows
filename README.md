@@ -24,6 +24,7 @@ You will develop an application for listing TV series, using the API provided by
 You can find the API here. 
 
 **Mandatory Features** 
+
 - List all of the series contained in the API used by the paging scheme provided by the API. 
 - Allow users to search series by name. 
 - The listing and search views must show at least the name and poster image of the series. 
@@ -42,8 +43,9 @@ You can find the API here.
 	- Image, if there is one 
 
 **Bonus (Optional)** 
-- Allow the user to set a PIN number to secure the application and prevent unauthorized users. *(Not Completed)*
-- For supported phones, the user must be able to choose if they want to enable fingerprint authentication to avoid typing the PIN number while opening the app. *(Not Completed)* 
+
+- Allow the user to set a PIN number to secure the application and prevent unauthorized users. **(Not Completed)**
+- For supported phones, the user must be able to choose if they want to enable fingerprint authentication to avoid typing the PIN number while opening the app. **(Not Completed)** 
 - Allow the user to save a series as a favorite. 
 - Allow the user to delete a series from the favorites list. 
 - Allow the user to browse their favorite series in alphabetical order, and click on one to see its details. 
